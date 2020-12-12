@@ -57,3 +57,6 @@ Curso de JavaScript do Curso em Vídeo que introduz as funções básicas da lin
 
 ## Status
 - [x] Concluído - 07/12/2020
+
+## Links
+- [Curso em Vídeo](https://www.cursoemvideo.com/)
