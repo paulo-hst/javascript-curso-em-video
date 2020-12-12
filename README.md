@@ -1,7 +1,8 @@
 <h1 align="center">JavaScript - Curso em Vídeo</h1>
 <h1 align="center">
-  <img alt="es6" title="es6" src="./app.png" width="400px"/>
+  <img alt="es6" title="es6" src="./app.jpg" width="400px"/>
 </h1>
+
 ## Objetivo
 Curso de JavaScript do Curso em Vídeo que introduz as funções básicas da linguagem com exercícios variados.
 
